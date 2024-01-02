@@ -37,13 +37,21 @@ function Get-Signature {
 Clear-Host
 
 Write-Host "";
-Write-Host "";
-Write-Host -ForegroundColor Red "   ██████╗ ███████╗██████╗     ██╗      ██████╗ ████████╗██╗   ██╗███████╗    ██████╗  █████╗ ███╗   ███╗";
-Write-Host -ForegroundColor Red "   ██╔══██╗██╔════╝██╔══██╗    ██║     ██╔═══██╗╚══██╔══╝██║   ██║██╔════╝    ██╔══██╗██╔══██╗████╗ ████║";
-Write-Host -ForegroundColor Red "   ██████╔╝█████╗  ██║  ██║    ██║     ██║   ██║   ██║   ██║   ██║███████╗    ██████╔╝███████║██╔████╔██║";
-Write-Host -ForegroundColor Red "   ██╔══██╗██╔══╝  ██║  ██║    ██║     ██║   ██║   ██║   ██║   ██║╚════██║    ██╔══██╗██╔══██║██║╚██╔╝██║";
-Write-Host -ForegroundColor Red "   ██║  ██║███████╗██████╔╝    ███████╗╚██████╔╝   ██║   ╚██████╔╝███████║    ██████╔╝██║  ██║██║ ╚═╝ ██║";
-Write-Host -ForegroundColor Red "   ╚═╝  ╚═╝╚══════╝╚═════╝     ╚══════╝ ╚═════╝    ╚═╝    ╚═════╝ ╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝";
+Write-Host -ForegroundColor Yellow "                      /|\";
+Write-Host -ForegroundColor Yellow "                      \|/";
+Write-Host -ForegroundColor Yellow "                    . ' ` .";
+Write-Host -ForegroundColor Yellow "*             *  . '   *    ` .  *             *";
+Write-Host -ForegroundColor Yellow "` \          / \'     / \      `/ \          / '";
+Write-Host -ForegroundColor Yellow " `  \       /   \    /   \     /   \       /  '";
+Write-Host -ForegroundColor Yellow "  `   \   ./     \  /     \   /     \.   /   '";
+Write-Host -ForegroundColor Yellow "   `    \'/       \/       \ /       \`/    '";
+Write-Host -ForegroundColor Yellow "    `_____________________________________ '";
+Write-Host -ForegroundColor Yellow "     _____________________________________";
+Write-Host -ForegroundColor Yellow "     _____________________________________";
+Write-Host -ForegroundColor Yellow "     |                                   |";
+Write-Host -ForegroundColor Yellow "     *     *     *     *     *     *     *";
+Write-Host -ForegroundColor Yellow "     |___________________________________|";
+Write-Host -ForegroundColor Yellow "     _____________________________________";
 Write-Host "";
 Write-Host -ForegroundColor Blue "   Made By PureIntent (Shitty ScreenSharer) For Red Lotus ScreenSharing and DFIR - " -NoNewLine
 Write-Host -ForegroundColor Red "discord.gg/redlotus";
